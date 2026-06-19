@@ -1,7 +1,9 @@
 # DJH Tutorial Video Archiver
 
 ## Repository Name
-
+[![GitHub release](https://img.shields.io/github/v/release/djhir0/djh-tutorial-video-compressor?style=flat-square)](https://github.com/djhir0/djh-tutorial-video-compressor/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/djhir0/djh-tutorial-video-compressor/total?style=flat-square)](https://github.com/djhir0/djh-tutorial-video-compressor/releases)
+[![GitHub stars](https://img.shields.io/github/stars/djhir0/djh-tutorial-video-compressor?style=social)](https://github.com/djhir0/djh-tutorial-video-compressor/stargazers)
 ```
 djh-tutorial-video-archiver
 ```
@@ -15,6 +17,9 @@ djh-tutorial-video-archiver
 [![Issues](https://img.shields.io/github/issues/djhir0/djh-tutorial-video-compressor?style=for-the-badge)](https://github.com/djhir0/djh-tutorial-video-compressor/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/djhir0/djh-tutorial-video-compressor?style=for-the-badge)](https://github.com/djhir0/djh-tutorial-video-compressor/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/djhir0/djh-tutorial-video-compressor?style=for-the-badge)](https://github.com/djhir0/djh-tutorial-video-compressor)
+
+
+
 Alternative names
 
 * ffmpeg-hevc-batch-archiver

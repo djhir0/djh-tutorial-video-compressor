@@ -5,7 +5,16 @@
 ```
 djh-tutorial-video-archiver
 ```
-
+[![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/djhir0/djh-tutorial-video-compressor)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-NVENC-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
+[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-NVENC-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/)
+[![License](https://img.shields.io/github/license/djhir0/djh-tutorial-video-compressor?style=for-the-badge)](https://github.com/djhir0/djh-tutorial-video-compressor/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/djhir0/djh-tutorial-video-compressor?style=for-the-badge)](https://github.com/djhir0/djh-tutorial-video-compressor/stargazers)
+[![Forks](https://img.shields.io/github/forks/djhir0/djh-tutorial-video-compressor?style=for-the-badge)](https://github.com/djhir0/djh-tutorial-video-compressor/network/members)
+[![Issues](https://img.shields.io/github/issues/djhir0/djh-tutorial-video-compressor?style=for-the-badge)](https://github.com/djhir0/djh-tutorial-video-compressor/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/djhir0/djh-tutorial-video-compressor?style=for-the-badge)](https://github.com/djhir0/djh-tutorial-video-compressor/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/djhir0/djh-tutorial-video-compressor?style=for-the-badge)](https://github.com/djhir0/djh-tutorial-video-compressor)
 Alternative names
 
 * ffmpeg-hevc-batch-archiver

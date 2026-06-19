@@ -1,4 +1,4 @@
-# DJH Tutorial Video Archiver
+# DJH Tutorial Video Compressor and Archiver
 
 ## Repository Name
 [![GitHub release](https://img.shields.io/github/v/release/djhir0/djh-tutorial-video-compressor?style=flat-square)](https://github.com/djhir0/djh-tutorial-video-compressor/releases)
